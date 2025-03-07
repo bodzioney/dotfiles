@@ -3,3 +3,24 @@
 
 # Git
 !.gitignore
+
+# Config
+!.config
+# Fish
+!.config/fish
+!.config/fish/config.fish
+# Mise
+!.config/mise
+!.config/mise/config.toml
+# Nvim
+!.config/nvim
+# Tmux
+!.config/tmux
+!.config/tmux/tmux.conf
+# Yabai
+!.config/yabai
+!.config/yabai/*
+!.config/yabai/scripts/*
+# Shkd
+!.config/skhd
+!.config/skhd/*
